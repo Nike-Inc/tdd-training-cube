@@ -35,7 +35,7 @@ face of the cube displayed to the viewer indicates which TDD phase we are curren
 
 ![TDD Training Cube pictured during a TDD Learnstitute screencast episode](images/CubeInLearnstitute.png "TDD Training Cube tells us what to do next in our TDD adventures")
 
-Harry J. W. Percival's [Obey the Testing Goat](http://www.obeythetestinggoat.com/) includes a [workflow diagram](http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#TDD-double-loop) that also influenced the development of the TDD Training Cube. 
+Also, Harry J. W. Percival's [Obey the Testing Goat](http://www.obeythetestinggoat.com/) includes a [workflow diagram](http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#TDD-double-loop) that influenced the development of the TDD Training Cube. 
 &nbsp;
 
 ## Protips
