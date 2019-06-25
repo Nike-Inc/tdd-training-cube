@@ -1,9 +1,9 @@
 # TDD Training Cube
 
 The TDD Training Cube helps you keep track of which Outside-In Test-Driven Development phase you 
-are currently operating in and what steps to take once you get there.  Print out the .pdf file, 
+are currently operating in and what steps to take once you get there.  Print out the [.pdf file](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCube.pdf), 
 follow the assembly instructions, and use the TDD Training Cube whenever you practice test-driving 
-your code.  Each face of the TDD Training Cube contains conditions and actions to take in order to 
+your code.  Each face of the TDD Training Cube contains [conditions and actions](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCubeExplainer.pdf) to take in order to 
 transition between TDD phases; use the up-face of the cube as a reminder of what you are doing in 
 each TDD cycle.
 
