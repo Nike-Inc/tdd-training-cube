@@ -1,13 +1,13 @@
 # TDD Training Cube
 
 The TDD Training Cube helps you keep track of which Outside-In Test-Driven Development phase you 
-are currently operating in and what steps to take once you get there.  Print out the [.pdf file](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCube.pdf), 
+are currently operating in and what steps to take once you get there.  Print out the [.pdf file](https://github.com/Nike-Inc/tdd-training-cube/blob/master/TDDCube.pdf) [⬇](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCube.pdf "Download"), 
 follow the assembly instructions, and use the TDD Training Cube whenever you practice test-driving 
-your code.  Each face of the TDD Training Cube contains [conditions and actions](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCubeExplainer.pdf) to take in order to 
+your code.  Each face of the TDD Training Cube contains [conditions and actions](https://github.com/Nike-Inc/tdd-training-cube/blob/master/TDDCubeExplainer.pdf) [⬇](https://github.com/Nike-Inc/tdd-training-cube/raw/master/TDDCubeExplainer.pdf "Download") to take in order to 
 transition between TDD phases; use the up-face of the cube as a reminder of what you are doing in 
 each TDD cycle.
 
-<img align="right" alt="TDD Training Cube" src="images/cube.png" width="175" height="188">The six
+<img align="right" alt="TDD Training Cube" title="TDD Training Cube" src="images/cube.png" width="175" height="188">The six
 Outside-In Test-Driven Development phases depicted on the TDD Training Cube are:
 
 * (Green, Outer, Start Here) **All Functional Tests Pass**
