@@ -1,6 +1,13 @@
 # Change Log
 
+## [1.10] - 2019-09-19
+### Changed
+- Minor edits to TDDCubeExplainer content
+- Moved TDDCubeExplainer content from LibreOffice Draw to LibreOffice Writer format, layout changes
+- Renamed TDDCubeExplainer to TDDCubeCheatSheet, marked it as v2
+
 ## [1.10] - 2019-05-25
+### Changed
 - Fixed up some colors on the arrows on the cube, gradients
 - Lots of formatting tweaks
 - Split item 1 on All Unit Tests Pass into two items
